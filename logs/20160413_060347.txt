@@ -1,0 +1,5 @@
+2016-04-13 06:03:48,118 ERROR AppleDaily.py[line:195] None
+Traceback (most recent call last):
+  File "AppleDaily.py", line 106, in parsePages
+    if( id['0'] == 'A'):
+TypeError: string indices must be integers, not str

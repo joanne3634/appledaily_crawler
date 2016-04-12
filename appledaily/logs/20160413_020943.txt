@@ -1,0 +1,8 @@
+2016-04-13 02:11:46,737 WARNING AppleDaily.py[line:285] error: parsing reporter: http://www.appledaily.com.tw/appledaily/article/headline/20150921/36788970
+2016-04-13 02:11:46,737 WARNING AppleDaily.py[line:285] error: parsing reporter: http://www.appledaily.com.tw/appledaily/article/headline/20150921/36788970
+2016-04-13 02:11:46,738 WARNING AppleDaily.py[line:285] error: parsing reporter: http://www.appledaily.com.tw/appledaily/article/headline/20150921/36788970
+2016-04-13 02:11:46,738 WARNING AppleDaily.py[line:285] error: parsing reporter: http://www.appledaily.com.tw/appledaily/article/headline/20150921/36788970
+2016-04-13 02:12:14,393 WARNING AppleDaily.py[line:285] error: parsing reporter: http://www.appledaily.com.tw/appledaily/article/headline/20150806/36706462
+2016-04-13 02:12:14,393 WARNING AppleDaily.py[line:285] error: parsing reporter: http://www.appledaily.com.tw/appledaily/article/headline/20150806/36706462
+2016-04-13 02:12:14,394 WARNING AppleDaily.py[line:285] error: parsing reporter: http://www.appledaily.com.tw/appledaily/article/headline/20150806/36706462
+2016-04-13 02:12:14,394 WARNING AppleDaily.py[line:285] error: parsing reporter: http://www.appledaily.com.tw/appledaily/article/headline/20150806/36706462
